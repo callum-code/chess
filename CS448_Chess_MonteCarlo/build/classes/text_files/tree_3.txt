@@ -1,0 +1,27 @@
+***Tree***
+0 0 0 0 false 0 cs448_hexapawn.Node@1fa5e50e cs448_hexapawn.Node@388de51b null
+1 2 1 1 true 2 cs448_hexapawn.Node@388de51b cs448_hexapawn.Node@29766435 cs448_hexapawn.Node@2a41025b
+1 2 1 1 true 2 cs448_hexapawn.Node@2a41025b cs448_hexapawn.Node@1afc0f88 cs448_hexapawn.Node@4177977c
+1 2 1 1 true 2 cs448_hexapawn.Node@4177977c cs448_hexapawn.Node@3f232bf4 null
+0 0 0 1 false 0 cs448_hexapawn.Node@29766435 null cs448_hexapawn.Node@4d8e84f1
+0 0 1 1 false 2 cs448_hexapawn.Node@4d8e84f1 cs448_hexapawn.Node@57c316b9 cs448_hexapawn.Node@753295c0
+2 0 1 1 false 0 cs448_hexapawn.Node@753295c0 null cs448_hexapawn.Node@fc844a1
+2 0 2 1 false 0 cs448_hexapawn.Node@fc844a1 null null
+0 0 0 1 false 0 cs448_hexapawn.Node@1afc0f88 null cs448_hexapawn.Node@3658f0a5
+0 0 1 1 false 2 cs448_hexapawn.Node@3658f0a5 cs448_hexapawn.Node@79614e09 cs448_hexapawn.Node@189c5870
+2 0 1 1 false 0 cs448_hexapawn.Node@189c5870 null cs448_hexapawn.Node@55bcea8e
+2 0 2 1 false 0 cs448_hexapawn.Node@55bcea8e null null
+0 0 0 1 false 0 cs448_hexapawn.Node@3f232bf4 null cs448_hexapawn.Node@7632368c
+0 0 1 1 false 2 cs448_hexapawn.Node@7632368c cs448_hexapawn.Node@2628816a cs448_hexapawn.Node@5b992ea4
+2 0 1 1 false 0 cs448_hexapawn.Node@5b992ea4 null cs448_hexapawn.Node@7d43c2a8
+2 0 2 1 false 0 cs448_hexapawn.Node@7d43c2a8 null null
+2 2 1 1 true 2 cs448_hexapawn.Node@57c316b9 cs448_hexapawn.Node@2410e544 null
+0 2 1 1 true 2 cs448_hexapawn.Node@79614e09 cs448_hexapawn.Node@57f2f6c9 null
+0 2 1 1 true 2 cs448_hexapawn.Node@2628816a cs448_hexapawn.Node@1aa21dda null
+2 0 1 1 false 2 cs448_hexapawn.Node@2410e544 cs448_hexapawn.Node@2dd76b9f cs448_hexapawn.Node@1f8d0c31
+2 0 2 1 false 0 cs448_hexapawn.Node@1f8d0c31 null null
+2 0 1 1 false 0 cs448_hexapawn.Node@57f2f6c9 null cs448_hexapawn.Node@3c14f041
+2 0 2 1 false 2 cs448_hexapawn.Node@3c14f041 null null
+2 0 1 1 false 0 cs448_hexapawn.Node@1aa21dda null cs448_hexapawn.Node@7863ec35
+2 0 2 1 false 2 cs448_hexapawn.Node@7863ec35 null null
+0 2 1 1 true 2 cs448_hexapawn.Node@2dd76b9f null null

@@ -1,0 +1,12 @@
+***Tree***
+0 0 0 0 false 0 cs448_hexapawn.Node@17172b18 cs448_hexapawn.Node@3f999751 null
+2 2 2 1 true 2 cs448_hexapawn.Node@3f999751 cs448_hexapawn.Node@5c5a13b5 null
+0 0 0 1 false 2 cs448_hexapawn.Node@5c5a13b5 cs448_hexapawn.Node@464a0284 cs448_hexapawn.Node@682baebe
+1 0 1 1 false 0 cs448_hexapawn.Node@682baebe null cs448_hexapawn.Node@1b7b9ff5
+1 0 2 1 false 0 cs448_hexapawn.Node@1b7b9ff5 null null
+2 1 1 0 true 2 cs448_hexapawn.Node@464a0284 cs448_hexapawn.Node@17b0e094 null
+0 1 1 2 false 0 cs448_hexapawn.Node@17b0e094 null cs448_hexapawn.Node@1f89ec4
+2 0 2 1 false 2 cs448_hexapawn.Node@1f89ec4 cs448_hexapawn.Node@34939e1b null
+1 2 0 1 true 2 cs448_hexapawn.Node@34939e1b cs448_hexapawn.Node@73d02b4b null
+2 1 2 2 false 2 cs448_hexapawn.Node@73d02b4b cs448_hexapawn.Node@63f4c1e5 null
+0 1 0 0 true 2 cs448_hexapawn.Node@63f4c1e5 null null
